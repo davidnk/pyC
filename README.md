@@ -1,7 +1,7 @@
 pyC
 ===
 
-Run C code from a python string.k
+Run C code from a python string.
 
 Notes
 -----
